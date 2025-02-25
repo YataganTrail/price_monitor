@@ -8,7 +8,7 @@
   {
     "name": "Tauer L'Air Du Desert Marocain Eau de Toilette",
     "url": "https://noahgrooming.co.nz/products/tauer-lair-du-desert-marocain-edt-intense-spray-50ml",
-    "css_selector": "#shopify-section-template--17475294429336__main > div > div > div.product-info.product-info--sticky > sticky-scroll-direction > div > div.product-info__block.product-info__block--sm.product-price > div > div > div.price__default > strong",
+    "css_selector": ".price__default strong",
     "target_price": 400.0
   }
 ]
