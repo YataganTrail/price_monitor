@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Country Road Oxford Shirt",
+    "url": "https://www.countryroad.co.nz/regular-fit-australian-good-earth-cotton-oxford-shirt-60297833-100",
+    "css_selector": "#__next > div.relative.z-0.flex.h-full.min-h-screen.flex-col > div.relative.flex.grow.flex-col > main > div.relative > div.py-ds-s.flex.flex-col.justify-between.md\\:flex-row.items-start.pt-0 > div.md\\:pl-ds-m.px-ds-s.float-right.my-2.w-full.md\\:pr-3.lg\\:w-\\[30rem\\].md\\:top-18.relative.md\\:sticky.md\\:mr-9 > div.flex.flex-col.justify-between > div:nth-child(1) > section > div > div.price_break > div > span > span.value",
+    "target_price": 300.0
+  }
+  {
+    "name": "Tauer L'Air Du Desert Marocain Eau de Toilette",
+    "url": "https://noahgrooming.co.nz/products/tauer-lair-du-desert-marocain-edt-intense-spray-50ml",
+    "css_selector": "#shopify-section-template--17475294429336__main > div > div > div.product-info.product-info--sticky > sticky-scroll-direction > div > div.product-info__block.product-info__block--sm.product-price > div > div > div.price__default > strong",
+    "target_price": 400.0
+  }
+]
